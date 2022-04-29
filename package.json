@@ -30,7 +30,7 @@
     "webpack": "^3.1.0"
   },
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "axios": "^0.16.2",
     "babel-polyfill": "^6.23.0",
     "bluebird": "^3.5.0",
